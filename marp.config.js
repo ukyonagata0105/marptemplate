@@ -1,3 +1,4 @@
 module.exports = {
-  allowLocalFiles: true
+  allowLocalFiles: true,
+  html: true
 } 
